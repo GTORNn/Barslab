@@ -29,6 +29,5 @@ Bu proje, **Siber Vatan BarsLab** programı ön mülakat aşaması için özel o
    `localhost/Barslab/barslabpage/barslablogin.php`
 **🕵️‍♂️ Gizli Admin Erişimi (Easter Egg):**
 Siber güvenlik temasına ve CTF kültürüne uygun olarak, ön yüzde (Frontend) bariz bir "Admin Paneli" linki bilerek bırakılmamıştır. Yönetim paneline giriş sayfasına (`barslablogin.php`) erişmek için ana sayfadaki **BarsLab logosuna tıklamanız** gerekmektedir.
-**📌 Not:** Yönetim panelini test etmek için varsayılan admin giriş bilgileri (SQL dosyasıyla birlikte gelir):
 * **Email:** admin@admin.com
 * **Şifre:** admin
