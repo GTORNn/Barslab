@@ -19,7 +19,7 @@ Bu proje, **Siber Vatan BarsLab** programı ön mülakat aşaması için özel o
 ## 🚀 Kurulum ve Çalıştırma
 
 1. Projeyi bilgisayarınıza klonlayın:
-   `git clone https://github.com/kullanici-adiniz/barslab-blog.git`
+   `git clone https://github.com/GTORNn/barslab.git`
 2. phpMyAdmin üzerinden `barslabdb` adında yeni bir MySQL veritabanı oluşturun.
 3. Proje dizinindeki `barslabdata/barslabdb.sql` dosyasını içe aktararak (Import) gerekli tabloları kurun.
 4. `barslabdata/barslabdb.php` ve `barslabpage/config.php` dosyalarındaki veritabanı bağlantı ayarlarını (kullanıcı adı, şifre) kendi yerel sunucunuza göre güncelleyin.
